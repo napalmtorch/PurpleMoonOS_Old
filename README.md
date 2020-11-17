@@ -1,5 +1,6 @@
 # PurpleMoonOS
 Operating system built from "scratch" in C#, using Cosmos Kernel
+Youtube Channel: https://www.youtube.com/channel/UC9ZaDKg7dBUzoJx6gk-e26w
 
 In order to login, you must use the Filesystem.vdmk file included. It contains a file named "config.pmc" that has the login data.
 Place it in "C:\Users\*YOUR_USER_NAME*\AppData\Roaming\Cosmos User Kit\Build\VMware\Workstation\"
